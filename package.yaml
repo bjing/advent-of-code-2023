@@ -20,6 +20,9 @@ description:         Advent of Code 2023
 
 dependencies:
 - base >= 4.7 && < 5
+- containers
+- split
+- text
 
 library:
   source-dirs: src
